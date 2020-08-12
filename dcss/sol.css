@@ -1,0 +1,94 @@
+*{
+	    background-color: 42DCF8;
+    box-sizing: border-box; 
+  }
+
+		.rd{
+			color: blue;
+			text-align: center;
+			font-family: normal;	
+		}
+
+		.PUBG{
+			font-size: 15px;
+			font-weight: italic;
+			font: italic;
+			color: 9E3ACA;
+		}
+
+		.FALL{
+		font-size: 15px;
+			font-weight: italic;
+			font: italic;
+			color: 9E3ACA;
+		}
+
+		#PUBG{
+			font-size: 15px;
+			font-weight: bold;
+			background-color: transparent;
+			opacity: 8;
+			color: white;
+		}
+
+		#RG{
+			font-size: 15px;
+			font-weight: bold;
+			background-color: transparent;
+			opacity: 8;
+			color: white;
+		}
+
+		h1{
+			color: blue;
+			text-align: center;
+		}
+			h2{
+			color: FB0000;
+			text-align: center;
+			font-family: normal;
+		}
+
+
+		#p1{
+	font-size:23px;
+    color: F50FC6;
+    font-weight: normal;
+    font-style: normal;
+		}
+			#p2{
+	font-size:23px;
+    color: D008A7;
+    font-weight: normal;
+    font-style: normal;
+		}
+			#p3{
+	font-size:23px;
+    color: D950BD;
+    font-weight: normal;
+    font-style: normal;
+		}
+			#p4{
+	font-size:23px;
+    color: 045BFA;
+    font-weight: normal;
+    font-style: normal;
+		}
+			#p5{
+	font-size:23px;
+    color: 1154CE;
+    font-weight: normal;
+    font-style: normal;
+		}
+				#p6{
+	font-size:23px;
+    color: 2D08E4;
+    font-weight: normal;
+    font-style: normal;
+		}
+	
+
+
+
+
+
